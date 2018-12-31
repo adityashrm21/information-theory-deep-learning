@@ -1,2 +1,2 @@
-# information-theory-pytorch
-A PyTorch implementation for the demonstration of information theoretical concepts in Deep Learning
+# Information Theory in Deep Learning
+This repository contains implementations (mostly in PyTorch), relevant resources and lessons related to information theory of deep learning.
