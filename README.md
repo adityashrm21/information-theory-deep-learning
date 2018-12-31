@@ -8,3 +8,5 @@ This repository contains implementations (mostly in PyTorch), relevant resources
 [2] [Ravid Schwartz-Ziv and Naftali Tishby. “Opening the Black Box of Deep Neural Networks via Information” ICRI-CI, 2017](https://arxiv.org/pdf/1703.00810.pdf)
 
 [3] [Naftali Tishby, Fernando C. Pereira, and William Bialek. "The information bottleneck method"](https://arxiv.org/pdf/physics/0004057.pdf)
+
+[4] [Mohamed Ishmael Belghazi, Aristide Baratin, Sai Rajeswar, Sherjil Ozair, Yoshua Bengio, Aaron Courville, R Devon Hjelm, "Mutual Information Neural Estimation" ICML, 2018](https://arxiv.org/abs/1801.04062)
