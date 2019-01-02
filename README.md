@@ -3,7 +3,7 @@ This repository contains implementations (mostly in PyTorch), relevant resources
 
 ## Resources
 
-## Videos and Talks
+### Videos and Talks
 
 - [Stanford Seminar - Information Theory of Deep Learning, Dr. Naftly Tishby, 2018](https://www.youtube.com/watch?v=XL07WEc2TRI)
 - [Information Theory of Deep Learning (Yandex) - Naftali Tishby, 2017](https://www.youtube.com/watch?v=dPhsU0bu4LY)
