@@ -1,5 +1,5 @@
 # Information Theory in Deep Learning
-This repository contains implementations (mostly in PyTorch), relevant resources and lessons related to information theory of deep learning.
+This repository contains implementations (mostly in PyTorch), relevant resources and lessons related to information theory of deep learning. The aim is to have a single source for all the information on the topic.
 
 ## Resources
 
