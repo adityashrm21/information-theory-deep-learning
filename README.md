@@ -20,6 +20,8 @@ This repository contains implementations (mostly in PyTorch), relevant resources
 
 [5] [Ben Poole, Sherjil Ozair, Aaron van den Oord, Alexander A. Alemi, George Tucker1, "On variational lower bounds of mutual information", NeurIPS, 2018](http://bayesiandeeplearning.org/2018/papers/136.pdf)
 
+[6] [R Devon Hjelm, Alex Fedorov, Samuel Lavoie-Marchildon, Karan Grewal, Phil Bachman, Adam Trischler, Yoshua Bengio, "Learning deep representations by mutual information estimation and maximization", [stat.ML] 3 Oct 2018](https://arxiv.org/abs/1808.06670)
+
 ### Blog posts and Articles
 
 - [Lilian Weng’s blog post: Anatomize Deep Learning using Information Theory, Sep 2017](https://lilianweng.github.io/lil-log/2017/09/28/anatomize-deep-learning-with-information-theory.html)
